@@ -8,7 +8,7 @@ Author:   Simon Kinjo
 Maintenance:  Simon Kinjo
 ```
 
-# Building
+### Building
 
 Make sure you have installed the dependencies:
 
