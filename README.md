@@ -24,7 +24,7 @@ Clone the [source] with `git`:
 
 [source]: https://github.com/dedsecubr/pyrust-lang
 
-And execute
+And execute.
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
