@@ -18,11 +18,11 @@ Make sure you have installed the dependencies:
 
 Clone the [source] with `git`:
  ```sh
-   git clone https://github.com/dedsecubr/pyrust-lang
+   git clone https://github.com/dedsecurity/pyrust-lang
    cd pyrust-lang
    ```
 
-[source]: https://github.com/dedsecubr/pyrust-lang
+[source]: https://github.com/dedsecurity/pyrust-lang
 
 And execute.
 
